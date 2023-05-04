@@ -1,0 +1,128 @@
+﻿@model List<BeekodSiteProject.Models.Stock>
+@{ Layout = "~/Views/Shared/_AdminLayout.cshtml"; }
+
+@{ if (Session["adminid"] == null)
+    {
+        Response.Redirect("/Admin/Login/");
+    }}
+<!DOCTYPE html>
+<html lang="en">
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div style="border: 2px solid rgba(0,0,0,.125); background-color: #f8f8f8; box-shadow: 2px 2px 5px rgba(0,0,0,0.3); padding: 10px; overflow-y: auto; max-height: 500px;" class="col-md-4">
+                    <!-- Profile Image -->
+                    <aside>
+                        <!-- Cart submit form -->
+                        <form action="/Home/Index" method="POST">
+                            <!-- SmartCart element -->
+                            <div id="smartcart"></div>
+                        </form>
+                    </aside>          
+                </div>
+                <div class="col-md-8">
+                    <div class="card-header p-2">
+                        <ul class="nav nav-pills">
+                            <li class="nav-item"><a class="nav-link active" href="#activity" data-toggle="tab">Urunler</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#timeline" data-toggle="tab">Icecekler</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#settings" data-toggle="tab">Bakliyat</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#settings" data-toggle="tab">Kati Urunler</a></li>
+                        </ul>
+                    </div><!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="tab-content">
+                            <div class="active tab-pane" id="activity">
+                                <div class="post">
+                                    <!-- /.user-block -->
+                                    <div class="row">
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="col-sm-2">
+                                                <div class="sc-product-item thumbnail caption">
+                                                    <h4 hidden data-name="product_name">@item.Name</h4>
+                                                    <div>
+                                                        <a class="sc-add-to-cart">
+                                                            <input name="product_price" value="@item.SalePrice" type="hidden" />
+                                                            <input name="product_id" value="@item.Id" type="hidden" />
+                                                            <img data-name="product_image" src="@item.ImageUrl" alt="...">
+                                                        </a>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </div>
+                                            </div>
+                                         }
+                                    </div>
+                                </div> <!-- /.post -->
+                            </div> <!-- /.tab-pane -->
+                            <div class="tab-pane" id="timeline">
+                                <!-- The timeline -->
+                                <div class="post">
+                                    <!-- /.user-block -->
+                                    <div class="row">
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="col-sm-2">
+                                                <div class="sc-product-item thumbnail caption">
+                                                    <h4 hidden data-name="product_name">@item.Name</h4>
+                                                    <div>
+                                                        <a class="sc-add-to-cart">
+                                                            <input name="product_price" value="@item.SalePrice" type="hidden" />
+                                                            <input name="product_id" value="@item.Id" type="hidden" />
+                                                            <img data-name="product_image" src="@item.ImageUrl" alt="...">
+                                                        </a>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+                                                </div>
+                                            </div>
+                                        }
+                                        
+                                    </div>
+                                </div>
+                            </div> <!-- /.tab-pane -->
+
+                            <div class="tab-pane" id="settings">
+                                <div class="post">
+                                    <!-- /.user-block -->
+                                    <div class="row">
+                                        <div class="col-sm-3">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                        </div>
+                                        <!-- /.col -->
+                                        <div class="col-sm-3">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                        </div>
+                                        <!-- /.col -->
+                                        <div class="col-sm-3">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <img class="img-fluid navbar " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                            <img class="img-fluid " src="~/Content/AdminPanel/dist/img/photo2.png" alt="Photo">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div> 
+                    </div>
+                </div>
+            </div> 
+        </div> 
+    </div>
+    <aside class="control-sidebar control-sidebar-dark">
+    </aside> 
+</body>
+</html>

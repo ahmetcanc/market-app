@@ -1,0 +1,78 @@
+﻿@model List<BeekodSiteProject.Models.Stock>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>DataTables</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Stok Listesi</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+
+
+    <div class="card">
+        <div class="card-header">
+            <a class="btn btn-primary" href="@Url.Action("addStock","Stock")">Stok Ekle</a>
+        </div>
+        <!-- /.card-header -->
+        <div class="card-body">
+            <table id="example1" class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Ürün Adı</th>
+                        <th>Barkod</th>
+                        <th>Satış Tipi</th>
+                        <th>Resim Url</th>
+                        <th>Alış Fiyatı</th>
+                        <th>Satış Fiyatı</th>
+                        <th>Miktar</th>
+                        <th>Stok Tarihi</th>
+                        <th>Satıcı</th>
+                        <th>Stok Gurubu</th>
+                        <th>İşlem</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Barcode</td>
+            <td>@item.SalesType</td>
+            <td>@item.ImageUrl</td>
+            <td>@item.PurchasePrice</td>
+            <td>@item.SalePrice</td>
+            <td>@item.Piece</td>
+            <td>@item.StockDate</td>
+            <td>@item.Wholesaler</td>
+            <td>@item.StockGroup</td>
+            <td>
+                <a style="margin-right: 4px;" href="@Url.Action("editStock","Stock",new {id=item.Id})" class="btn btn-tbl-edit btn-xs btn-secondary" title="Düzenle"><i class="fa-solid fa-pencil"></i></a>
+                @using (Html.BeginForm("deleteStock", "Stock", FormMethod.Post))
+                {
+@Html.Hidden("id", item.Id)
+                    <button type="submit" class="btn btn-tbl-edit btn-xs btn-danger" onclick="javascript:return confirm('Kayıt silinecektir.Emin misiniz?');"><i class="fa-solid fa-trash"></i></button>}
+            </td>
+        </tr>}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

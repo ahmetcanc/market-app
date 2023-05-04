@@ -1,0 +1,73 @@
+﻿@model IEnumerable<BeekodSiteProject.Models.Admin>
+
+@{
+    ViewBag.Title = "Setting";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Şifre Kontrolü</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="card">
+            <div class="card-header">
+                <a href="/Settings/AddUser" type="button" class="btn btn-success">Kullanıcı Ekle</a>
+            </div>
+            <div class="card-body">
+                <table id="example1" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>Kullanıcı Adı</th>
+                            <th>Şifre</th>
+                            <th>İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.KullaniciAdi</td>
+                                <td><span id="sifre-@item.Id"> @item.Sifre</span></td>
+                                <td>
+                                    <div>
+                                        <a href="/Settings/UpdateUser/@item.Id" class="btn btn-secondary btn-sm" title="Düzenle"><i class="fa-solid fa-pencil"></i></a>
+                                        @using (Html.BeginForm("DeleteUser", "Settings", FormMethod.Post))
+                                        {
+                                            @Html.Hidden("id", item.Id)
+                                            <button type="submit" class="btn btn-sm btn-danger" onclick="javascript:return confirm('Kayıt silinecektir.Emin misiniz?');"><i class="fa-solid fa-trash"></i></button>}
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    // Her bir sifre span elementini seçin
+    var sifreler = document.querySelectorAll('span[id^="sifre-"]');
+
+    // Her bir sifrenin içeriğini yıldızlı olarak değiştirin
+    sifreler.forEach(function (span) {
+        var sifre = span.innerHTML;
+        var sifreYildizli = '';
+        for (var i = 0; i < sifre.length; i++) {
+            sifreYildizli += '*';
+        }
+        span.innerHTML = sifreYildizli;
+    });
+
+
+
+</script>

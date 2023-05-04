@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Apr 2023 10:56:26 at https://themes.pixelstrap.com/fastkart/front-end/index-7.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://themes.pixelstrap.com/fastkart/front-end/index-7.html -O1 "C:\Benim Web Sitem\Market Otomasyon" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:58:45	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/demo-personal-portfolio.html (from https://themes.pixelstrap.com/fastkart/front-end/index-7.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product-left.html (from https://themes.pixelstrap.com/fastkart/front-end/index-7.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/11-bg.png (from https://themes.pixelstrap.com/fastkart/assets/css/style.css)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.facebook.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.goolge.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.twitter.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.instagram.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.pinterest.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/term_condition.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/careers.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/vegetables-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/spice-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/bags-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/bakery-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/grocery-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product-left.htm (from https://themes.pixelstrap.com/fastkart/front-end/product-4-image.html)
+10:59:02	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product.left-sidebar.html (from https://themes.pixelstrap.com/fastkart/front-end/order-success.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 528 links scanned, 510 files written (29615106 bytes overall) [21307828 bytes received at 136588 bytes/sec], 9217025 bytes transferred using HTTP compression in 50 files, ratio 7%, 15.0 requests per connection
+(17 errors, 0 warnings, 0 messages)

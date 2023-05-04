@@ -1,0 +1,48 @@
+﻿@model BeekodSiteProject.Models.Admin
+@{
+    ViewBag.Title = "AddUser";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1 class="m-0">Yeni Kullanıcı Ekle</h1>
+            </div><!-- /.col -->
+            <div class="col-sm-6">
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+<!-- Main content -->
+<section class="content">
+
+    @*<div class="card-header">
+            <h3 class="card-title">Anasayfa İçerik Ekle</h3>
+        </div>*@
+    <div class="container-fluid">
+        <!-- Small boxes (Stat box) -->
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="SifreEkle" method="post">
+                    <div class="form-horizonal">
+                        <div class="form-group col-md-12">
+                            @Html.LabelFor(x => x.KullaniciAdi)
+                            @Html.TextBoxFor(x => x.KullaniciAdi, new { @class = "form-control" })
+                        </div>
+                        <div class="form-group col-md-12">
+                            @Html.LabelFor(x => x.Sifre)
+                            @Html.TextBoxFor(x => x.Sifre, new { @class = "form-control ", @type = "password" })
+                        </div>
+                    </div>
+                    <a style="margin-right: 4px;" href="/Settings/Setting" class="btn btn-warning">Listeye Geri Dön</a>
+                    <button type="submit" class="btn btn-primary">Kaydet</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,664 @@
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\İ5mm\Source\Repos\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\İ5mm\Documents\GitHub\BeekodSiteProject\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Desktop\28MART-17-05-BEEKOD-main\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.pdb
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe.config
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.rsp
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe.config
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.rsp
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Console.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe.config
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.rsp
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\WebGrease.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.xml
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+E:\ACC\MVC and API\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\İ5mm\Downloads\MarketShopping-main\MarketShopping-main\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\İ5mm\Documents\GitHub\25-04-2023-MarketProject\28MART-17-05-BEEKOD-main - Kopya\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\BeekodSiteProject.dll.config
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csc.exe
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csc.exe.config
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csc.rsp
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csi.exe
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csi.exe.config
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\csi.rsp
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.AppContext.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Console.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Net.Http.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\vbc.exe
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\vbc.exe.config
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\vbc.rsp
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Antlr3.Runtime.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\EntityFramework.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\EntityFramework.SqlServer.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Newtonsoft.Json.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Helpers.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Mvc.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Optimization.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Razor.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\WebGrease.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\EntityFramework.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\EntityFramework.SqlServer.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Newtonsoft.Json.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Helpers.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Mvc.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Razor.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\System.Web.Optimization.xml
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\bin\Antlr3.Runtime.pdb
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CoreCompileInputs.cache
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.CopyComplete
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\obj\Debug\BeekodSiteProject.dll
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\obj\Debug\BeekodSiteProject.pdb
+C:\Users\ahmet can ceylan\Source\Repos\DENEMEPROJE\BeekodSiteProject\obj\Debug\BeekodSiteProject.csproj.AssemblyReference.cache

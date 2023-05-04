@@ -1,0 +1,123 @@
+﻿@model List<BeekodSiteProject.Models.Stock>
+@{ Layout = "~/Views/Shared/_AdminLayout.cshtml"; }
+
+@{ if (Session["adminid"] == null)
+    {
+        Response.Redirect("/Admin/Login/");
+    }}
+
+@{
+    var dCategory = Model.Select(x => x.StockGroup).Distinct();
+}
+<!DOCTYPE html>
+<html lang="en">
+<body class="hold-transition sidebar-mini">
+    <div class="wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div style="border: 2px solid rgba(0,0,0,.125); background-color: #f8f8f8; box-shadow: 2px 2px 5px rgba(0,0,0,0.3); padding: 10px; overflow-y: auto; max-height: 700px;" class="col-md-4">
+                    <!-- Profile Image -->
+                    <aside>
+                        <!-- Cart submit form -->
+                        <form id="frmSales" method="POST">
+                            <!-- SmartCart element -->
+                            <div id="smartcart"></div>
+                        </form>
+                    </aside>
+                </div>
+
+                <div class="col-md-8" style="border: 2px solid #ccc; background-color: #f8f8f8; box-shadow: 2px 2px 5px rgba(0,0,0,0.3); padding: 10px; overflow-y: auto; min-height: 700px;">
+                    <div class="card-header p-2">
+                        <ul class="nav nav-pills">
+                            @{
+                                var firstCategory = dCategory.FirstOrDefault();
+                            }
+                            @foreach (var category in dCategory)
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link @((category == firstCategory) ? "active" : "")" href="#@category" data-toggle="tab">@category</a>
+                                </li>
+                            }
+                        </ul>
+                    </div><!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="tab-content">
+                            @{
+                                var myClass = "active";
+                            }
+                            @foreach (var category in dCategory)
+                            {
+                                <div class="tab-pane @myClass" id="@category">
+                                    @{
+                                        var list = Model.Where(x => x.StockGroup == category);
+                                    }
+                                    <div class="row">
+                                        @foreach (var item in list)
+                                        {
+                                            <div class="col-md-2">
+                                                <div class="sc-product-item thumbnail caption" >
+                                                    <h4 hidden data-name="product_name">@item.Name</h4>
+                                                    <div>
+                                                        <a class="sc-add-to-cart">
+                                                            <input name="product_price" value="@item.SalePrice" type="hidden" />
+                                                            <input name="product_id" value="@item.Id" type="hidden" />
+                                                            <img data-name="product_image" src="@item.ImageUrl" alt="...">
+                                                        </a>
+                                                    </div>
+                                                    <div class="clearfix"></div>
+
+                                                </div>
+                                            </div>
+
+                                            if ((Array.IndexOf(list.ToArray(), item) + 1) % 6 == 0)
+                                            {
+                                            @:</div><div class="row">
+                                            }
+
+                                        }
+                                    </div>
+                                </div>
+                                myClass = "";
+
+                            }
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <aside class="control-sidebar control-sidebar-dark">
+    </aside>
+
+
+    <script>
+      
+        var myData = {
+            cart_list: cart_list,
+            test: '123123'
+        };
+        console.log("girdim buna")
+        $.ajax({
+            url: "/Admin/ode",
+            type: 'POST',
+            dataType: 'json',
+            data: JSON.stringify(myData),
+            contentType: "application/json; charset=utf-8",
+            success: function (resp) {
+                if (resp.Success) {
+                    alert(res.Message);
+                } else {
+                    alert(res.Message);
+                }
+                console.log(resp);
+            },
+            error: function (err) {
+                console.error(err);
+            }
+        });</script>
+
+
+
+</body>
+</html>

@@ -1,0 +1,103 @@
+﻿@model List<BeekodSiteProject.Models.Stock>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+@{
+    var dCategory = Model.Select(x => x.StockGroup).Distinct();
+}
+
+<html>
+<body>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div id="shopping-cart">
+                <div class="txt-heading">
+                    <h1>Sepetteki Urunler</h1>
+                </div>
+                @*<a onClick="emptyCart()" id="btnEmpty">Empty Cart</a>*@
+                <div style="overflow:auto; max-height:200px;">
+                    <table class="tbl-cart" cellpadding="10" cellspacing="1">
+                        <thead>
+                            <tr>
+                                <th style="width:20%;">Urun Adi</th>
+                                <th style="width:20%;" class='text-right'>Adet Fiyati</th>
+                                <th style="width:8%;" class='text-right'>Adet</th>
+                                <th style="width:14%;" class='text-right'>tutar</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+                <div style="overflow: auto; height: 300px; max-height: 300px;">
+                    <table class="tbl-cart" cellpadding="10" cellspacing="1">
+                        <!--  Cart table to load data on "add to cart" action -->
+                        <tbody id="cartTableBody">
+                        </tbody>
+                        <tfoot>
+                            <tr>
+                                <td style="font-weight:900" class="text-left">Toplam Tutar:</td>
+                                <td style="font-weight:900" id="itemCount" class="text-right" colspan="2"></td>
+                                <td style="font-weight:900; color:red;" id="totalAmount" class="text-right"></td>
+                            </tr>
+                        </tfoot>
+                    </table>
+                </div>
+                <button style="background-color:limegreen;" onclick="confirmPurchase()" id="product-buy">SATIN AL</button>
+                <button style="background-color:red;" onclick="clearCartNavigation()" id="btnClear">İPTAL</button>
+            </div>
+        </div>
+        <div class="col-md-8" style=" background-color: #fff; border: 1px solid #ddd; border-radius: 5px; padding: 10px; text-align: center; box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2); padding: 10px; overflow-y: auto; min-height: 700px;">
+            <div class="card-header p-2">
+                <ul class="nav nav-pills">
+                    @{
+                        var firstCategory = dCategory.FirstOrDefault();
+                    }
+                    @foreach (var category in dCategory)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link @((category == firstCategory) ? "active" : "")" href="#@category" data-toggle="tab">@category</a>
+                        </li>
+                    }
+                </ul>
+            </div><!-- /.card-header -->
+            <div class="card-body">
+                <div class="tab-content">
+                    @{
+                        var myClass = "active";
+                    }
+                    @foreach (var category in dCategory)
+                    {
+                        <div class="tab-pane @myClass" id="@category">
+                            @{
+                                var list = Model.Where(x => x.StockGroup == category);
+                            }
+                            <div class="row">
+                                @foreach (var item in list)
+                                {
+
+                                    <div class="deneme">
+                                        <img onclick="addToCart(this)" style="max-width: 100%; height: 200px; padding: 0; margin: 0; box-sizing: border-box;" src="@item.ImageUrl" />
+                                        <input type="hidden" data-name="product-quantity" value="1" />
+                                        <input type="hidden" name="product-price" value="@item.SalePrice" />
+                                        <input type="hidden" name="product-name" value="@item.Name" />
+                                    </div>
+
+                                    if ((Array.IndexOf(list.ToArray(), item) + 1) % 6 == 0)
+                                    {
+                                    @:</div><div class="row">
+                                    }
+
+                                }
+                            </div>
+                        </div>
+                        myClass = "";
+
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

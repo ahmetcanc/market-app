@@ -1,0 +1,395 @@
+﻿
+@{ if (Session["adminid"] == null)
+    {
+        Response.Redirect("/Admin/Login/");
+    }}
+
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Market Otomasyonu</title>
+    <link href="~/Admin/assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/fontawesome-free/css/all.min.css">
+
+    <link href="~/Admin/assets/plugins/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <!-- Tempusdominus Bootstrap 4 -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+    <!-- iCheck -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+    <!-- JQVMap -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/jqvmap/jqvmap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/dist/css/adminlte.min.css">
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+    <!-- Daterange picker -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/daterangepicker/daterangepicker.css">
+    <!-- summernote -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/summernote/summernote-bs4.min.css">
+
+    <!-- Google font -->
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;500;600;700;800;900&amp;display=swap"
+          rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap"
+          rel="stylesheet">
+
+    <!-- bootstrap css -->
+    <link id="rtl-link" rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/vendors/bootstrap.css">
+
+    <!-- wow css -->
+    <link rel="stylesheet" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/animate.min.css" />
+
+    <!-- font-awesome css -->
+    <link rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/vendors/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer"   />
+
+    <!-- feather icon css -->
+    <link rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/vendors/feather-icon.css">
+
+    <!-- slick css -->
+    <link rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/vendors/slick/slick.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/vendors/slick/slick-theme.css">
+
+    <!-- Iconly css -->
+    <link rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/bulk-style.css">
+
+    <!-- Template css -->
+    <link id="color-link" rel="stylesheet" type="text/css" href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/style.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/plugins/fontawesome-free/css/all.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/Content/AdminPanel/dist/css/adminlte.min.css">
+    @*<link href="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/css/style.css" rel="stylesheet" />*@
+    <!-- Include Bootstrap CSS -->
+    @*<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">*@
+    <!-- Include SmartCart CSS -->
+    <link href="~/Content/Query/dist/css/smart_cart.css" rel="stylesheet" />
+    <link href="~/Content/javascript-shopping-cart/javascript-shopping-cart/style.css" type="text/css" rel="stylesheet" />
+</head>
+
+
+
+<header class="pb-md-4 pb-0" style=" padding-bottom: 0 !important;">
+    <div class="top-nav top-header">
+
+        <div class="container-fluid-lg">
+            <div class="row">
+                <div class="col-12">
+                    <div class="navbar-top">
+                        @*<button class="navbar-toggler d-xl-none d-inline navbar-menu-button" type="button"
+                                    data-bs-toggle="offcanvas" data-bs-target="#primaryMenu">
+                                <span class="navbar-toggler-icon">
+                                    <i class="fa-solid fa-bars"></i>
+                                </span>
+                            </button>*@
+                        <a href="index.html" class="web-logo nav-logo">
+                            <img src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/images/marketimlogo.png" class="img-fluid blur-up lazyload" alt="">
+                        </a>
+
+                        <div class="rightside-box">
+
+                            <ul class="right-side-menu">
+                                <li class="right-side">
+                                    <div class="delivery-login-box">
+                                        <div class="delivery-icon">
+                                            <div class="search-box">
+                                                <i data-feather="search"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="right-side">
+                                    <div class="onhover-dropdown header-badge">
+                                        <ul>
+                                            <li>
+                                                <a href="/Menu/Index"><button class="menubutton" >Menuye Don</button></a>
+                                            </li>
+                                        </ul>
+
+
+                                        @*<span class="position-absolute top-0 start-100 translate-middle badge">
+                                                0
+                                            </span>*@
+
+
+
+                                    </div>
+                                </li>
+                                <li class="right-side onhover-dropdown">
+                                    <div class="delivery-login-box">
+                                        <div class="delivery-icon">
+                                            <i data-feather="user"></i>
+                                        </div>
+                                        <div class="delivery-detail">
+                                            <h6>Hello,</h6>
+                                            <h5>My Account</h5>
+                                        </div>
+                                    </div>
+
+                                    <div class="onhover-div onhover-div-login">
+                                        <ul class="user-box-name">
+                                            <li class="product-box-contain">
+                                                <i></i>
+                                                <a href="/Settings/Setting" class="nav-link">Giris Bilgileri</a>
+                                            </li>
+
+
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</header>
+<body class="hold-transition sidebar-mini layout-fixed">
+
+    @RenderBody()
+
+    <div class="theme-option">
+        <div class="setting-box">
+            <button class="btn setting-button">
+                <i class="fa-solid fa-palette" style="color: #ffffff;"></i>
+            </button>
+
+            <div class="theme-setting-2">
+                <div class="theme-box">
+                    <ul>
+                        <li>
+                            <div class="theme-setting-button color-picker">
+                                <form class="form-control">
+                                    <label for="colorPick" class="form-label mb-0">Renkler</label>
+                                    <input type="color" class="form-control form-control-color" id="colorPick"
+                                           value="#0da487" title="Renk Sec">
+                                </form>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="back-to-top">
+            <a id="back-to-top" href="#">
+                <i class="fas fa-chevron-up"></i>
+            </a>
+        </div>
+    </div>
+    <style>
+        .footer-dark {
+            color: black;
+            padding: 10px;
+        }
+    </style>
+
+    <footer class="footer-dark">
+        <div class="float-right d-none d-sm-block">
+            BEEKOD &copy; tarafından tasarlanmıştır.
+        </div>
+        <strong>BEEKOD &copy; @DateTime.Today.Year </strong> Tüm hakları saklıdır.
+
+    </footer>
+
+
+
+    <script src="~/Content/AdminPanel/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/jszip/jszip.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <!-- jQuery -->
+    <script src="~/Content/AdminPanel/plugins/jquery/jquery.min.js"></script>
+    <!-- jQuery UI 1.11.4 -->
+    <script src="~/Content/AdminPanel/plugins/jquery-ui/jquery-ui.min.js"></script>
+    <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+    <script>$.widget.bridge('uibutton', $.ui.button)</script>
+    <!-- Bootstrap 4 -->
+    <script src="~/Content/AdminPanel/plugins/bootstrap/js/bootstrap-datepicker.js"></script>
+    <script src="~/Content/AdminPanel/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- ChartJS -->
+    <script src="~/Content/AdminPanel/plugins/chart.js/Chart.min.js"></script>
+    <!-- Sparkline -->
+    <script src="~/Content/AdminPanel/plugins/sparklines/sparkline.js"></script>
+    <!-- JQVMap -->
+    <script src="~/Content/AdminPanel/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+    <!-- jQuery Knob Chart -->
+    <script src="~/Content/AdminPanel/plugins/jquery-knob/jquery.knob.min.js"></script>
+    <!-- daterangepicker -->
+    <script src="~/Content/AdminPanel/plugins/moment/moment.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/daterangepicker/daterangepicker.js"></script>
+    <!-- Tempusdominus Bootstrap 4 -->
+    <script src="~/Content/AdminPanel/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+    <!-- Summernote -->
+    <script src="~/Content/AdminPanel/plugins/summernote/summernote-bs4.min.js"></script>
+    <!-- overlayScrollbars -->
+    <script src="~/Content/AdminPanel/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/Content/AdminPanel/dist/js/adminlte.js"></script>
+
+    <script src="~/Content/AdminPanel/assets/plugins/sweet-alert/sweetalert2.all.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/jquery-3.6.0.min.js"></script>
+
+    <!-- jquery ui-->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/jquery-ui.min.js"></script>
+
+    <!-- Bootstrap js-->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/bootstrap/popper.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/bootstrap/bootstrap-notify.min.js"></script>
+
+    <!-- feather icon js-->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/feather/feather.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/feather/feather-icon.js"></script>
+
+    <!-- Lazyload Js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/lazysizes.min.js"></script>
+
+    <!-- Slick js-->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/slick/slick.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/slick/slick-animation.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/slick/custom_slick.js"></script>
+
+    <!-- Price Range Js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/ion.rangeSlider.min.js"></script>
+
+    <!-- Quantity js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/quantity-2.js"></script>
+
+    <!-- sidebar open js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/filter-sidebar.js"></script>
+
+    <!-- WOW js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/wow.min.js"></script>
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/custom-wow.js"></script>
+
+    <!-- script js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/script.js"></script>
+
+    <!-- thme setting js -->
+    <script src="~/Content/Market Otomasyon/themes.pixelstrap.com/fastkart/assets/js/theme-setting.js"></script>
+
+    <!-- DataTables  & Plugins -->
+    <script src="~/Content/AdminPanel/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/jszip/jszip.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/Content/AdminPanel/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <script src="~/Content/AdminPanel/dist/js/adminlte.min.js"></script> <!-- AdminLTE for demo purposes -->
+    <script src="~/Content/AdminPanel/dist/js/demo.js"></script> <!-- Include jQuery -->
+    @*<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" type="text/javascript"></script>*@
+    <script src="~/Content/Query/dist/js/jquery.smartCart.js"></script>
+    <script>
+        $(document).on('click', '.sc-cart-checkout', function () {
+            alert("pesin odeme gerceklestirilsin mi ?");
+
+            var myData = $('form#frmSales').serialize();
+            console.log(myData);
+        $.ajax({
+            url: '@Url.Action("ode","admin")',
+            type: 'POST',
+            dataType: 'json',
+            data: myData,
+            success: function (resp) {
+                if (resp.success) {
+                    alert(res.Message);
+                } else {
+
+                    alert(res.Message);
+                }
+                console.log(resp);
+            },
+            error: function (err) {
+
+            }
+        });
+    });
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // Initialize Smart Cart
+            $('#smartcart').smartCart();
+        });</script>
+    <script>
+        $(function () {
+            $("#example1").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print"]
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+            $('#example2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": true,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+        });
+    </script>
+    <script src="~/Content/javascript-shopping-cart/javascript-shopping-cart/cart.js"></script>
+    <script>
+        $.ajax({
+            url: '/Deneme/Index', // Controller action that returns product information
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                // Process returned product data here
+            },
+            error: function (xhr, status, error) {
+                console.log('Error: ' + error);
+            }
+        });
+    </script>
+    <script>
+        function confirmPurchase() {
+            var confirmed = confirm('Satın almak istediğinizden emin misiniz?');
+            if (confirmed) {
+                buyFunction();
+            }
+        }
+    </script>
+    <script>
+        function clearCartNavigation() {
+            var confirmed = confirm('Satisi iptal etmek istediginize emin misiniz?');
+            if (confirmed) {
+                clearCart();
+            }
+        }
+    </script>
+
+</body>
+

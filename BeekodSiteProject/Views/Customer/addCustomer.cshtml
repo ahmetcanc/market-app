@@ -1,0 +1,74 @@
+﻿
+@model BeekodSiteProject.Models.Customer
+@{
+    ViewBag.Title = "addCustomer";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="content-wrapper">
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>DataTables</h1>
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">DataTables</li>
+                    </ol>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <section class="content">
+
+        <div class="card-header">
+            <h3 class="card-title">Anasayfa İçerik Ekle</h3>
+        </div>
+        <div class="container-fluid">
+            <!-- Small boxes (Stat box) -->
+            <div class="card">
+                <div class="card-body">
+                    <form asp-action="IcerikEkle" method="post">
+                        <div class="form-row">
+                            @Html.HiddenFor(model => model.Id)
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Barkod)
+                                @Html.TextBoxFor(x => x.Barkod, new { @class = "form-control " })
+                            </div>
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Name)
+                                @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                            </div>
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.PhoneNumber)
+                                @Html.TextBoxFor(x => x.PhoneNumber, new { @class = "form-control ", @type = "tel" })
+                            </div>
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Workplace)
+                                @Html.TextBoxFor(x => x.Workplace, new { @class = "form-control " })
+                            </div>
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Mail)
+                                @Html.TextBoxFor(x => x.Mail, new { @class = "form-control ", @type = "email" })
+                            </div>
+                            <div hidden class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Transactiondate)
+                                @Html.TextBoxFor(x => x.Transactiondate, new { @class = "form-control ", @type = "date" })
+                            </div>
+                            <div class="form-group col-md-6">
+                                @Html.LabelFor(x => x.Balance)
+                                @Html.TextBoxFor(x => x.Balance, new { @class = "form-control " })
+                            </div>
+                        </div>
+                        <a style="margin-right: 4px;" href="@Url.Action("Index","Customer")" class="btn btn-warning">Listeye Geri Dön</a>
+                        <button type="submit" class="btn btn-primary">Kaydet</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
